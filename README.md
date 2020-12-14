@@ -1,9 +1,9 @@
 ## 👋 Hi, I am Sven 
 I am a developer who is passionate about Data Science, Research and Robotics 
 
-- 🔭 I’m currently working on [Crowdy](https://www.crowdy.ch/)
+- 🔭 I’m currently working on [Cividi](https://www.cividi.ch/)
+- 👍 for [Crowdy](https://www.crowdy.ch/)
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in research fields.
 
 **Tech Stack**
 
