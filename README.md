@@ -2,7 +2,7 @@
 I am a developer who is passionate about Data Science, Research and Robotics 
 
 - 🔭 I’m currently working for [Cividi](https://www.cividi.ch/)
-- 👍 having funn with [Crowdy](https://www.crowdy.ch/)
+- 👍 like [Crowdy](https://www.crowdy.ch/)
 - 😊 Willing to contribute in opensource development projects.
 
 **Tech Stack**
