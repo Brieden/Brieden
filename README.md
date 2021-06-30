@@ -1,10 +1,12 @@
 ## 👋 Hi, I am Sven 
 I am a developer who is passionate about Data Science, Research and Robotics 
 
-Currently working for  [<img src="https://weweb-v3.twic.pics/prod/designs/0f2c3941-9463-48c1-9e11-b173c848ec52/sections/cividpurple_cut.svg?v=1618560795365&twic=v1/quality=90/resize=174" alt="terminal" height="25"/>](https://www.cividi.ch/)  and  [<img src="https://assets.mobilezone.ch/product-detail-slider/options-dpr-2/e7eb32308dcbea015fa1cc4c9bb49861cf0f2b31/swisscom.jpg" alt="terminal" height="30"/>](https://www.swisscom.ch/en/business.html) 
+Currently working with:
+- [<img src="https://weweb-v3.twic.pics/prod/designs/0f2c3941-9463-48c1-9e11-b173c848ec52/sections/cividpurple_cut.svg?v=1618560795365&twic=v1/quality=90/resize=174" alt="terminal" height="30"/>](https://www.cividi.ch/)  
+- [<img src="https://assets.mobilezone.ch/product-detail-slider/options-dpr-2/e7eb32308dcbea015fa1cc4c9bb49861cf0f2b31/swisscom.jpg" alt="terminal" height="40"/>](https://www.swisscom.ch/en/business.html) 
+- **Hontolab**
 
-**Tech Stack**
-
+### Tech Stack
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> 
 <img src="https://github.com/docker/awesome-compose/blob/master/awesome-compose.jpg?raw=true" alt="terminal" width="40" height="40"/> 
