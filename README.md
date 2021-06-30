@@ -1,8 +1,7 @@
 ## 👋 Hi, I am Sven 
 I am a developer who is passionate about Data Science, Research and Robotics 
 
-- 🔭 I’m currently working for [Cividi](https://www.cividi.ch/)
-- 😊 Willing to contribute in opensource development projects.
+Currently working for  [<img src="https://weweb-v3.twic.pics/prod/designs/0f2c3941-9463-48c1-9e11-b173c848ec52/sections/cividpurple_cut.svg?v=1618560795365&twic=v1/quality=90/resize=174" alt="terminal" height="25"/>](https://www.cividi.ch/)  and  [<img src="https://assets.mobilezone.ch/product-detail-slider/options-dpr-2/e7eb32308dcbea015fa1cc4c9bb49861cf0f2b31/swisscom.jpg" alt="terminal" height="30"/>](https://www.swisscom.ch/en/business.html) 
 
 **Tech Stack**
 
