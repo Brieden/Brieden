@@ -1,24 +1,47 @@
-## 👋 Hi, I am Sven 
-I am a developer who is passionate about Data Science, Research and Robotics 
+# Hi there, I'm Sven! 👋
 
-Currently working with:
-- [<img src="https://weweb-v3.twic.pics/prod/designs/0f2c3941-9463-48c1-9e11-b173c848ec52/sections/cividpurple_cut.svg?v=1618560795365&twic=v1/quality=90/resize=174" alt="terminal" height="30"/>](https://www.cividi.ch/)  
-- [<img src="https://assets.mobilezone.ch/product-detail-slider/options-dpr-2/e7eb32308dcbea015fa1cc4c9bb49861cf0f2b31/swisscom.jpg" alt="terminal" height="40"/>](https://www.swisscom.ch/en/business.html) 
-- **Hontolab**
+**Physics → Robotics → Data Science → Data Engineering**
 
-### Tech Stack
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/> 
-<img src="https://github.com/docker/awesome-compose/blob/master/awesome-compose.jpg?raw=true" alt="terminal" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+I am an Engagement Lead at [Unit8](https://unit8.com/), bridging the gap between technical complexity and business value. While my day job involves orchestrating large-scale data architectures and AI solutions, my heart beats for the code, the community, and the chaos.
+
+---
+
+### 🧐 What I'm up to
+
+* **By Day:** Refining CRM systems, building data architectures on Azure/Snowflake/Palantir, and translating "business requirements" into actual working code.
+* **By Night:** Building full-stack projects for friends (because I can't say no to a good idea) and tinkering with my Smart Home setup.
+    * *Fun Fact:* My smart home is currently smarter than me. I'm just living in it. 🏠🤖
+* **Community:** I teach programming to pass on the torch and I am a massive fan of the **CCC** (Chaos Computer Club). 🏴‍☠️
+
+### 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white) *(Yes, really)*
+
+**Engineering & Cloud**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Palantir Foundry](https://img.shields.io/badge/-Palantir_Foundry-000000?style=flat)
+
+**Data & AI**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+---
+
+### 🚀 Selected Projects
+
+* **City Pulse (Side Project):** Analyzing webcam time-series data to understand urban flows using PyTorch (segmentation) and OpenCV.
+* **Crowdedness Forecast:** A $2M budget project for the tourism industry using Time Series Forecasting.
+* **Pedestrian Routing:** Built a safety-oriented routing algorithm for Swiss school administrations.
+
+---
+
+<p align="center">
+  Connect with me on <a href="https://www.linkedin.com/in/sven-brieden">LinkedIn</a> • Based in Zurich 🇨🇭
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brieden&show_icons=true" alt="brieden" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieden&layout=compact&hide=html" alt="brieden" />
-
