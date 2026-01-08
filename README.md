@@ -43,5 +43,5 @@ I am an Engagement Lead at [Unit8](https://unit8.com/), bridging the gap between
 ---
 
 <p align="center">
-  Connect with me on <a href="https://www.linkedin.com/in/sven-brieden">LinkedIn</a> • Based in Zurich 🇨🇭
+  Connect with me on <a href="https://www.linkedin.com/in/sven-brieden">LinkedIn</a> • Currently based in Zurich 🇨🇭
 </p>
